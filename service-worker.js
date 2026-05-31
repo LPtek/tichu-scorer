@@ -1,6 +1,6 @@
 // Tichu Scorer service worker
 // Bump CACHE_VERSION whenever you change app.js / index.html to force clients to refresh.
-const CACHE_VERSION = "tichu-v2";
+const CACHE_VERSION = "tichu-v3";
 const ASSETS = [
   "./",
   "./index.html",
