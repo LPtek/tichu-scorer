@@ -43,10 +43,10 @@ Your game logic, design, fonts, and features are otherwise untouched.
 4. Back in GitHub Desktop you'll see the files listed as changes. Add a summary like
    "Initial app", then click **Commit to main**, then **Publish repository**
    (uncheck "Keep this code private" so Pages can serve it).
-5. Turn on hosting: go to **github.com/your-username/tichu-scorer →
+5. Turn on hosting: go to **github.com/LPtek/tichu-scorer →
    Settings → Pages**. Under "Build and deployment", set Source to **Deploy from a
    branch**, branch **main**, folder **/ (root)**, and Save.
-6. Wait ~1 minute, then visit **https://your-username.github.io/tichu-scorer/**.
+6. Wait ~1 minute, then visit **https://lptek.github.io/tichu-scorer/**.
    Open it on your Android phone — you should be able to "Add to Home screen" and it
    runs full screen. That live URL is what you'll paste into PWABuilder next.
 
